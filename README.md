@@ -1,7 +1,3 @@
-Here is your **README file** formatted using the provided template while incorporating the details from your **E-Wallet System**.  
-
----
-
 # **Overview**  
 
 As a software engineer, I developed an **E-Wallet System** in **C#** to enhance my understanding of **file handling, user authentication, and financial transactions**. This software provides users with a **secure digital wallet** that supports **registration, login, balance checking, deposits, withdrawals, and both internal and external transfers**.  
