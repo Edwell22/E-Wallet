@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\bin\Debug\net9.0\EWallet.exe
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\bin\Debug\net9.0\EWallet.deps.json
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\bin\Debug\net9.0\EWallet.runtimeconfig.json
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\bin\Debug\net9.0\EWallet.dll
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\bin\Debug\net9.0\EWallet.pdb
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\obj\Debug\net9.0\EWallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\obj\Debug\net9.0\EWallet.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\obj\Debug\net9.0\EWallet.AssemblyInfo.cs
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\obj\Debug\net9.0\EWallet.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\obj\Debug\net9.0\EWallet.dll
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\obj\Debug\net9.0\refint\EWallet.dll
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\obj\Debug\net9.0\EWallet.pdb
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\obj\Debug\net9.0\EWallet.genruntimeconfig.cache
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\obj\Debug\net9.0\ref\EWallet.dll
+C:\Users\admin\Documents\BYU\E-Wallet\EWallet\obj\Debug\net9.0\EWallet.sourcelink.json
